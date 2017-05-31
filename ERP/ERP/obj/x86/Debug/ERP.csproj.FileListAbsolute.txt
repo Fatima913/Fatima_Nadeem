@@ -1,0 +1,72 @@
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\bin\Debug\ERP.exe
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\bin\Debug\ERP.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.exe
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.My_connection.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Main.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.customer.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Approvance.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Vendor.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Purchase_Order.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.VApprovance.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.PO_Approvance.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.GRN.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.invoice.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Form2.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.SMain.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Sales_Order.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Sales_Approvance.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.D_Chalan.resources
+C:\Users\Fatima\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Invoice_R.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Approvance.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.customer.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.D_Chalan.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Form2.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.GRN.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.invoice.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Invoice_R.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Main.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.My_connection.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.PO_Approvance.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Purchase_Order.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Sales_Approvance.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Sales_Order.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.SMain.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.VApprovance.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.Vendor.resources
+C:\Users\Fatima\Documents\Visual Studio 2010\Projects\New folder\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\Fatima\Desktop\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Fatima\Desktop\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Approvance.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.customer.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.D_Chalan.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Form2.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.GRN.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.invoice.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Invoice_R.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Main.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.My_connection.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.PO_Approvance.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Purchase_Order.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Sales_Approvance.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Sales_Order.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.SMain.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.VApprovance.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.Vendor.resources
+C:\Users\Fatima\Desktop\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
